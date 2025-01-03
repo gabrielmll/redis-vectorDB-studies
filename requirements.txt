@@ -1,0 +1,5 @@
+redis
+pandas
+sentence-transformers
+tabulate
+python-dotenv
